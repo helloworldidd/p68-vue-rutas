@@ -10,7 +10,6 @@ import HeaderComponent from "./components/HeaderComponent.vue";
   </nav>
   <router-view />
 
-
 </template>
 
 <style scoped>
